@@ -1,4 +1,4 @@
-//applying kalman filter to imu readings
+//applying kalman filter to imu sensor readings
 
 #include "MPU6050_6Axis_MotionApps20.h"
 #include <Wire.h>
